@@ -1,0 +1,20 @@
+'PE6.exe' (Win32): Loaded 'C:\Users\Samar\source\repos\2205-igme209-01-samarkarnani\PE6\Debug\PE6.exe'. Symbols loaded.
+'PE6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'PE6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'PE6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'PE6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'PE6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'PE6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x2ffc has exited with code 0 (0x0).
+Random at loop number 20 = 20973
+'PE6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'PE6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'PE6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'PE6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'PE6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'PE6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'PE6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The thread 0x4144 has exited with code 0 (0x0).
+The thread 0x3440 has exited with code 0 (0x0).
+The thread 0x3034 has exited with code 0 (0x0).
+The program '[16132] PE6.exe' has exited with code 0 (0x0).
